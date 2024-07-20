@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to [Your Social Media Site]. We are committed to protecting your privacy and ensuring the security of your personal data. This policy explains how we collect, use, and share your information.
+Welcome to Trollflix. We are committed to protecting your privacy and ensuring the security of your personal data. This policy explains how we collect, use, and share your information.
 
 ## Information We Collect
 
