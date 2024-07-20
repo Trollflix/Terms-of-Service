@@ -1,4 +1,4 @@
-# Cookie Policy
+# Cookies Policy
 
 ## Introduction
 
