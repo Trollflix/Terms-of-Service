@@ -1,4 +1,4 @@
-# More info & Contact
+# Contact & More info
 
 Trollflix LTD is a company incorporated in England and Wales with registered number 13256759, and it operates the Website [www.trollflix.com](http://www.trollflix.com)
 
