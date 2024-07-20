@@ -6,3 +6,22 @@ These Terms of Service ("Terms") govern your access to and use of the Trollflix 
 - If you are under the age at which you can provide consent to data processing under the laws of your country.
 
 Trollflix allows you to upload images, videos, GIFs, texts, links, and other materials. Anything that you upload or otherwise make available on Trollflix is referred to as "Content". You retain all rights in and are solely responsible for the Content you post to Trollflix.
+
+# What content you cannot upload/post to Trollflix?
+
+- Content including pornography, genitals, nudity, and sexuality.
+- Content you’ve copied or collected from the Internet that you don’t have the right to post.
+- Content including enforcement, terrorism, harassment.
+- Content that violates or infringes anyone’s rights, including rights of publicity, privacy, copyright, trademark, or other intellectual property or contract right.
+- Content that promotes racism, bigotry, hatred, or physical harm of any kind against any group or individual.
+- Content that impersonates any person or entity or posts any images of another person without his or her permission.
+- Content including spam, hate speech, and bullying.
+- Content that includes misleading or false information.
+- Content that promotes illegal activities or conduct that is abusive, threatening, obscene, defamatory, or libelous.
+- Content that exploits people in a sexual or violent manner.
+- Content that involves the transmission of unsolicited mass mailing or "spamming."
+- Content containing malicious code, viruses, or malware.
+- Content that is discriminatory based on race, religion, nationality, disability, sexual orientation, or age.
+- Content promoting self-harm or suicide.
+- Content violating any local, national, or international laws or regulations.
+
