@@ -1,3 +1,5 @@
+#Trollflix Terms of Service
+
 These Terms of Service ("Terms") govern your access to and use of the Trollflix website, Trollflix APIs, and Trollflix mobile app. By accessing or using Trollflix, you agree to be bound by these Terms, our [Privacy Policy](https://github.com/Trollflix/Terms-of-Service/blob/main/Privacy-and-data-policy.md), our [Cookies Policy](https://github.com/Trollflix/Terms-of-Service/blob/main/Cookies-policy.md), our [Community Guidelines](https://github.com/Trollflix/Terms-of-Service/blob/main/Community-guidelines.md), and other our policies. Our terms and policies may change over time. We will notify you when there is an important change in our Terms of Service. Also, we will notify you if we planned to make changes in our TOS. By continuing to access or use Trollflix after those changes become effective, you agree to be bound by the new Terms.
 
 # You cannot use Trollflix if:
