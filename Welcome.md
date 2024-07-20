@@ -6,4 +6,7 @@ These Terms of Service ("Terms") govern your access to and use of the Trollflix 
 - If you are under the age at which you can provide consent to data processing under the laws of your country.
 
 
+
+
+
 Trollflix allows you to upload/post images, videos, GIFs, texts, links, and other materials. Anything that you post or otherwise make available on Trollflix is referred to as "Content". You retain all rights in and are solely responsible for the Content you post to Trollflix.
