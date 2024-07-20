@@ -10,6 +10,7 @@ Welcome to Trollflix. We are committed to protecting your privacy and ensuring t
 - **Content**: We collect the content you create and share, including posts, comments, and messages.
 - **Usage Data**: We gather data on how you use our platform, such as the types of content you view or interact with.
 - **Device Information**: We collect data from the devices you use to access our services, like your IP address, browser type, and operating system.
+- **Third-Party OAuth Information:** If you link third-party services (e.g., Twitter, Discord, Pinterest) to your account, we collect information that you allow through OAuth permissions. This may include your profile information, posts, likes, and other activities.
 
 ## How We Use Your Information
 
