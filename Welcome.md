@@ -29,3 +29,24 @@ Trollflix allows you to upload images, videos, GIFs, texts, links, and other mat
 
 ---
 
+# Your Content
+
+We have no obligation to screen, edit, or monitor your content, we may, in our sole discretion, delete, edit or remove your content at any time and for any reason. By submitting/posting/uploading or displaying content on Trollflix, you grant us a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such content in any and all media or distribution methods now known or later developed. This license authorizes us to make your content available to the rest of the world and to let others do the same. You agree that this license includes the right for Trollflix to provide, promote, and improve the Trollflix user experience and to make content submitted to or through Trollflix available to other companies, organizations or individuals for the syndication, broadcast, distribution, share, promotion or publication of such content on other media and services, subject to our terms and conditions for such Content use. Such additional uses by Trollflix, or other companies, organizations or individuals, is made with no compensation paid to you with respect to the content that you submit/post/upload, transmit or otherwise make available through Trollflix as the use of the services by you is hereby agreed as being sufficient compensation for the content and grant of rights herein.
+
+---
+
+# Copyright and Trademark Infringement
+
+Trollflix respects the intellectual property rights of others and we expect people on Trollflix to do the same. It’s our policy—in appropriate circumstances and at our discretion—to disable or terminate the accounts of people who repeatedly infringe or are repeatedly charged with infringing copyrights or other intellectual property rights.
+
+Trollflix terms do not allow posting content that violates someone else’s intellectual property rights, including copyright and trademark.
+
+You are responsible for your use of Trollflix and for any Content you provide, including compliance with applicable laws, rules, and regulations. You should only provide content that you are comfortable sharing with others.
+
+Any use or reliance on any content posted to Trollflix or obtained by you from Trollflix is at your own risk. We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any content or communications posted to Trollflix or endorse any opinions expressed via Trollflix. You understand that by using Trollflix, you may be exposed to content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive. All content is the sole responsibility of the person who originated such content. We may not monitor or control the content posted on Trollflix and, we cannot take responsibility for such content.
+
+We reserve the right to remove the content that violates Trollflix terms of service. For example, copyright or trademark violations or other intellectual property misappropriation, impersonation, unlawful conduct, or harassment.
+
+
+
+
